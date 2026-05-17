@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Akshat Kumar Jha 👋<br><br>🚀 Full-Stack Developer passionate about building scalable web applications and solving complex problems.<br><br>💻 Skilled in:<br><br>* Next.js<br>* React<br>* Node.js<br>* Express.js<br>* MongoDB<br>* JavaScript<br><br>⚡ I enjoy developing modern full-stack applications, designing efficient backend systems, and creating responsive user experiences.<br><br>🧠 Passionate Problem Solver with strong Data Structures & Algorithms skills.<br><br>🔧 Interested in backend architecture, real-time systems, AI integrations, and scalable application development.<br><br>📚 Currently exploring advanced system design, event-driven architectures, and modern web technologies.<br>
+Hi, I'm Akshat Kumar Jha 👋<br><br>🚀 Full-Stack Developer passionate about building scalable web applications and solving complex problems.<br><br> I enjoy developing modern full-stack applications, designing efficient backend systems, and creating responsive user experiences.<br><br>🧠 Passionate Problem Solver with strong Data Structures & Algorithms skills.<br><br>🔧 Interested in backend architecture, real-time systems, AI integrations, and scalable application development.<br><br>📚 Currently exploring advanced system design, event-driven architectures, and modern web technologies.<br>
 
 
 ## 🌐 Socials:
